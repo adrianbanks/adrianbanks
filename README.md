@@ -2,13 +2,9 @@
 
 https://blog.adrianbanks.co.uk
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianbanks&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=adrianbanks&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianbanks&show_icons=true&layout=compact&theme=transparent" />
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianbanks&show_icons=true&layout=compact&theme=transparent" />
-</p>
 <!--
 **adrianbanks/adrianbanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
