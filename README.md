@@ -7,7 +7,7 @@ https://blog.adrianbanks.co.uk
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianbanks&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianbanks&show_icons=true&layout=compact&theme=transparent" />
 </p>
 <!--
 **adrianbanks/adrianbanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
