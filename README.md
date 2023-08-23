@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-https://blog.adrianbanks.co.uk
-https://linktr.ee/adrianbanks
+[Blog](https://blog.adrianbanks.co.uk) | [Sketchnotes](https://blog.adrianbanks.co.uk/sketchnotes) | [Links](https://linktr.ee/adrianbanks)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adrianbanks&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" />
